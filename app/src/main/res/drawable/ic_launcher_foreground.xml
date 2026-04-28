@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Central pulse line representing "Pulse" and tracking -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M25,60 L35,60 L43,30 L53,80 L63,50 L73,60 L83,60" />
+
+    <!-- Stylized Dollar Sign overlay for "Finance" -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,35 C50,35 48,37 48,39 C48,41 50,42 54,43 C58,44 60,45 60,48 C60,51 58,53 54,53 C50,53 48,51 48,49 M54,32 L54,35 M54,53 L54,56" />
+
+    <!-- X mark for "Mistake/Error" logging -->
+    <path
+        android:strokeColor="#FFEB3B"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M70,30 L80,40 M80,30 L70,40" />
+
+</vector>
