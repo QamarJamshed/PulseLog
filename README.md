@@ -1,4 +1,4 @@
-# PulseLog: KMP Finance System
+## PulseLog: KMP Finance System
 
 PulseLog is a professional Finance Mistake Tracking System built with **Kotlin Multiplatform (KMP)**. It replaces traditional Excel-based workflows with a structured, role-based "Command Center" for tracking operational discrepancies.
 
@@ -29,9 +29,8 @@ Sectioned Navigation: A structured side-navigation menu separating Operations, A
 
 Kotlin Multiplatform (KMP), Compose Multiplatform, Material 3, Clean Architecture, MVVM, Ktor, SQLDelight, Coroutines, StateFlow, Kotlin-Charting, and Gemini AI.
 
-### **📸 Project Gallery**
+## Project Gallery
 
-### **📸 Project Gallery**
 
 | Login Screen | PulseLog Dashboard | Main Menu |
 | :---: | :---: | :---: |
@@ -40,5 +39,30 @@ Kotlin Multiplatform (KMP), Compose Multiplatform, Material 3, Clean Architectur
 | New Mistake Entry | Overall Analysis | User Management |
 | :---: | :---: | :---: |
 | <img src="Screenshots/New%20Mistake%20Entry.jpeg" width="250" alt="New Entry" /> | <img src="Screenshots/Overall%20Analysis.jpeg" width="250" alt="Analysis" /> | <img src="Screenshots/User%20management%20screen.jpeg" width="250" alt="User Management" /> || <img src="Screenshots/Dashboard.jpeg" width="250" /> | <img src="Screenshots/Main%20Menu%20Screen.jpeg" width="250" /> |
-| :---: | :---: | :---: |
-| <img src="Screenshots/New%20Mistake%20Entry.jpeg" width="250" /> | <img src="Screenshots/Overall%20Analysis.jpeg" width="250" /> | <img src="Screenshots/User%20management%20screen.jpeg" width="250" /> |
+
+
+## Prerequisites
+
+Android Studio (Latest Version), JDK 21, and a Physical Device or Emulator (x86_64, API 33+ recommended).
+
+## Installation
+
+Clone the repository:
+
+Bash
+git clone https://github.com/YOUR_USERNAME/PulseLog.git
+
+Open the project in Android Studio.
+
+Allow Gradle to sync and download necessary dependencies.
+
+Build and run the project on your device.
+
+
+## Connect With Me
+
+I am a native Android Developer specializing in building high-quality, scalable applications.
+
+LinkedIn: https://www.linkedin.com/in/qamar-jamshed-251119288
+
+Fiverr: https://www.fiverr.com/qamarkhattak/buying?source=avatar_menu_profile
